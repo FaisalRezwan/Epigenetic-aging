@@ -1,4 +1,4 @@
-# EpigeneticAgeML
+# Predicting lung function from epigenetic aging
 
 1. data.csv
 This file contains the information of 326 samples. All the sample IDs have been masked for de-identification.
